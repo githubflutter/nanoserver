@@ -1,0 +1,6 @@
+@nanoserver_HostAddress = http://localhost:5239
+
+GET {{nanoserver_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
