@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nanoserver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd04137653b95c414dc0a727f57b2600a313cbd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("nanoserver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nanoserver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
